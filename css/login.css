@@ -1,0 +1,25 @@
+body>div{
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    margin: 0 auto;
+}
+body{
+    height: 100vh;
+}
+form{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    font-size: 30;
+    align-items: center;
+}
+button{
+    width: 82%;
+    background-color: lightblue;
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+}
